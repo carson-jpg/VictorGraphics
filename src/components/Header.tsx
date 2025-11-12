@@ -23,8 +23,8 @@ export default function Header() {
                   V
                 </div>
                 <div>
-                  <h1 className="text-xl font-bold text-gray-900">VictorGraphics</h1>
-                  <p className="text-xs text-gray-600">Tech Kenya</p>
+                  <h1 className="text-xl font-bold text-gray-900">VICTOR AND SONS COMPUTERS</h1>
+                  <p className="text-xs text-gray-600">AND TECH SOLUTIONS KENYA</p>
                 </div>
               </div>
             </div>

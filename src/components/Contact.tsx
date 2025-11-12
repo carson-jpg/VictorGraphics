@@ -104,8 +104,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <div className="font-semibold mb-1">Email</div>
-                    <a href="mailto:info@victorgraphics.co.ke" className="text-blue-50 hover:text-white transition-colors">
-                      info@victorgraphics.co.ke
+                    <a href="mailto:victorcomputerservices254@gmail.com" className="text-blue-50 hover:text-white transition-colors">
+                      victorcomputerservices254@gmail.com
                     </a>
                   </div>
                 </div>
@@ -117,8 +117,8 @@ export default function Contact() {
                   <div>
                     <div className="font-semibold mb-1">Location</div>
                     <div className="text-blue-50">
-                      Nairobi CBD<br />
-                      California, next to Oasis
+                      Kisumu<br />
+                      California, next to RIAT
                     </div>
                   </div>
                 </div>

@@ -74,8 +74,8 @@ export default function Footer() {
                   V
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold">VictorGraphics</h3>
-                  <p className="text-sm text-gray-400">Tech Kenya</p>
+                  <h3 className="text-xl font-bold">VICTOR AND SONS COMPUTERS</h3>
+                  <p className="text-sm text-gray-400">AND TECH SOLUTIONS KENYA</p>
                 </div>
               </div>
               <p className="text-gray-400 mb-4 leading-relaxed">
@@ -86,13 +86,13 @@ export default function Footer() {
                   <Phone className="w-4 h-4" />
                   <span>0717 379 145</span>
                 </a>
-                <a href="mailto:info@victorgraphics.co.ke" className="flex items-center space-x-2 text-gray-400 hover:text-white transition-colors">
+                <a href="mailto:victorcomputerservices254@gmail.com" className="flex items-center space-x-2 text-gray-400 hover:text-white transition-colors">
                   <Mail className="w-4 h-4" />
-                  <span>info@victorgraphics.co.ke</span>
+                  <span>victorcomputerservices254@gmail.com</span>
                 </a>
                 <div className="flex items-center space-x-2 text-gray-400">
                   <MapPin className="w-4 h-4" />
-                  <span>Nairobi CBD, California next to Oasis</span>
+                  <span>Kisumu, California next to RIAT</span>
                 </div>
               </div>
             </div>
@@ -178,7 +178,7 @@ export default function Footer() {
 
           <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2025 VictorGraphics Tech Kenya. All rights reserved.
+              © 2025 VICTOR AND SONS COMPUTERS AND TECH SOLUTIONS KENYA. All rights reserved.
             </p>
 
             <div className="flex items-center space-x-4">

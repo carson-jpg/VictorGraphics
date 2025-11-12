@@ -73,8 +73,8 @@ export default function Hero() {
 
         <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 items-center opacity-60">
           <div className="text-center">
-            <div className="text-3xl font-bold text-gray-800">Nairobi CBD</div>
-            <div className="text-sm text-gray-600 mt-1">California, next to Oasis</div>
+            <div className="text-3xl font-bold text-gray-800">Kisumu</div>
+            <div className="text-sm text-gray-600 mt-1">California, next to RIAT</div>
           </div>
           <div className="text-center">
             <div className="text-3xl font-bold text-gray-800">1000+</div>
