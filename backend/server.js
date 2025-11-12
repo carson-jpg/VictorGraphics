@@ -21,7 +21,12 @@ mongoose.connect(process.env.MONGODB_URI || process.env.MONGO_URI, { useNewUrlPa
     console.log('MongoDB connected');
 
     // Middleware
-    app.use(cors());
+    app.use(cors({
+      origin: ['https://victor-graphics.vercel.app', 'http://localhost:3000', 'http://localhost:5173'],
+      credentials: true,
+      methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+      allowedHeaders: ['Content-Type', 'Authorization']
+    }));
     app.use(express.json());
 
     // Routes
